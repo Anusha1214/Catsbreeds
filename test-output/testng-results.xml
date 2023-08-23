@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-22T19:39:24 CEST" name="Default suite" finished-at="2023-08-22T19:39:52 CEST" duration-ms="27530">
+    <groups>
+    </groups>
+    <test started-at="2023-08-22T19:39:24 CEST" name="Default test" finished-at="2023-08-22T19:39:52 CEST" duration-ms="27530">
+      <class name="MobileTestFramework.MobileTestFramework.TestValidateLoginScreen">
+        <test-method is-config="true" signature="killAllNodes()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateLoginScreen@436813f3]" started-at="2023-08-22T19:39:24 CEST" name="killAllNodes" finished-at="2023-08-22T19:39:28 CEST" duration-ms="3266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllNodes -->
+        <test-method signature="homeScreenValidation()[pri:0, instance:MobileTestFramework.MobileTestFramework.TestValidateLoginScreen@436813f3]" started-at="2023-08-22T19:39:28 CEST" name="homeScreenValidation" finished-at="2023-08-22T19:39:52 CEST" duration-ms="24233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeScreenValidation -->
+      </class> <!-- MobileTestFramework.MobileTestFramework.TestValidateLoginScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

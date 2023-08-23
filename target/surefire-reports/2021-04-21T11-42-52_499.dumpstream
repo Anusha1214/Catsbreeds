@@ -1,0 +1,15 @@
+# Created on 2021-04-21T11:42:52.500
+WARNING: An illegal reflective access operation has occurred
+
+# Created on 2021-04-21T11:42:52.503
+WARNING: Illegal reflective access by net.sf.cglib.core.ReflectUtils$1 (file:/C:/Users/auga/.m2/repository/cglib/cglib/3.3.0/cglib-3.3.0.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+
+# Created on 2021-04-21T11:42:52.504
+WARNING: Please consider reporting this to the maintainers of net.sf.cglib.core.ReflectUtils$1
+
+# Created on 2021-04-21T11:42:52.506
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created on 2021-04-21T11:42:52.510
+WARNING: All illegal access operations will be denied in a future release
+
